@@ -1,0 +1,6 @@
+c:\users\dan\documents\visual studio 2015\Projects\LinRegGradientDescent\bin\Debug\LinRegGradientDescent.exe.config
+c:\users\dan\documents\visual studio 2015\Projects\LinRegGradientDescent\bin\Debug\LinRegGradientDescent.exe
+c:\users\dan\documents\visual studio 2015\Projects\LinRegGradientDescent\bin\Debug\LinRegGradientDescent.pdb
+c:\users\dan\documents\visual studio 2015\Projects\LinRegGradientDescent\obj\Debug\LinRegGradientDescent.csprojResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2015\Projects\LinRegGradientDescent\obj\Debug\LinRegGradientDescent.exe
+c:\users\dan\documents\visual studio 2015\Projects\LinRegGradientDescent\obj\Debug\LinRegGradientDescent.pdb
